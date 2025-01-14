@@ -6,7 +6,7 @@ la idea de estos apuntes era encontrar alguna logica en la distribucion de los a
 
 Hasta ahora no he hencontrado nada, y concluyo que la disposicion de los anodos y catodos no sigue ninguna logica conocida, quizas responda a logicas de optimizacion de la produccion etc.
 
-Pero ahi dejo los esquemas por si a alguien le sirve, mas tarde subo algo de codigo.
+Pero ahi dejo los esquemas por si a alguien le sirve.
 
 
 
@@ -24,3 +24,10 @@ Pero ahi dejo los esquemas por si a alguien le sirve, mas tarde subo algo de cod
 
 
 ![IMG_1922](https://github.com/user-attachments/assets/7a923664-6ba0-4a7a-b62c-a89c89c2459c)
+
+
+
+Para el codigo voy a usar un arduino y estas seran las conexiones.
+
+![IMG_1933](https://github.com/user-attachments/assets/e881a45f-3b54-4103-a140-954f4d9d49c4)
+
