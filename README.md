@@ -1,5 +1,5 @@
-# 788AS-8X8-MATRIX
-# 1088AYG-8X8-MATRIX
+# 788AS-8X8-MATRIX # 1088AYG-8X8-MATRIX # 1088AB-8X8-MATRIX
+
 
 He agregado algunos esquemas que quizas sirvan como apoyo al datasheet que es algo pobre, el datasheet esta subido a este repositorio.
 
